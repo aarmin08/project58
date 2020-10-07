@@ -78,3 +78,19 @@ li {
   background-color: lightblue;
   transform: scale(0.9);
 }
+.contact_1 a {
+  color: white;
+  text-shadow: none;
+}
+#contacts {
+  background-color: burlywood;
+  font-family: Avenir;
+}
+
+.contact_1 h3 {
+  display: inline;
+}
+
+#contacts iframe {
+  width: 100%;
+}
